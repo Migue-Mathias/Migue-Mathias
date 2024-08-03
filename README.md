@@ -58,17 +58,17 @@
                 </a>
             </td>
             <td align="center" width="200">
-                <a href="https://github.com/apache/maven">
+                <a href="https://www.alura.com.br/artigos/html">
                     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" width="60" />
                     <br />
-                    Html
+                    HTML
                 </a>
             </td>
             <td align="center" width="200">
-                <a href="https://github.com/apache/maven">
-                    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" width="60" />
+                <a href="https://www.alura.com.br/artigos/css">
+                    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48" width="60" />
                     <br />
-                    Css
+                    CSS
                 </a>
             </td>
         </tr>
@@ -80,9 +80,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JGustavoCN/JGustavoCN/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/JGustavoCN/JGustavoCN/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/JGustavoCN/JGustavoCN/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Migue-Mathias/Migue-Mathias/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Migue-Mathias/Migue-Mathias/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/Migue-Mathias/Migue-Mathias/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -90,7 +90,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JGustavoCN}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Migue-Mathias}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
